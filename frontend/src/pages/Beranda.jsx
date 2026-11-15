@@ -390,10 +390,10 @@ export default function Beranda() {
                 <br />
                 Sekarang
               </Link>
-              <Link className={styles.ctaSecondary} to="/daftar-umkm#persyaratan">
-                Panduan
+              <Link className={styles.ctaSecondary} to="/daftar-umkm">
+                Pendaftaran
                 <br />
-                Persyaratan
+                UMKM
               </Link>
             </div>
           </div>
